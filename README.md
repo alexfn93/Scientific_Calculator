@@ -16,9 +16,9 @@ Link do website: <a href="https://scientific-calculator-gamma.vercel.app/">Scien
 
 ### Tópicos | Topics
 
-:small_blue_diamond: [Descrição do projeto | Project Description](# Descrição do projeto )
+:small_blue_diamond:[Descrição do projeto | Project Description](#descrição-do-projeto-|-project-description)
 
-:small_blue_diamond: [Funcionalidades | Functionalities](#Funcionalidades)
+:small_blue_diamond:[Funcionalidades | Functionalities](#funcionalidades-|-functionalities)
 
 
 ## Descrição do projeto | Project Description 
