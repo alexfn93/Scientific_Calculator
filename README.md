@@ -25,15 +25,11 @@ Link do website: <a href="https://scientific-calculator-gamma.vercel.app/">Scien
 
 <p align="justify">
 <h4>Português: </h4>
-<p>Desenvolvi uma calculadora científiica, utlizando HTML,CSS E JavaScript.<br>
+<p>Desenvolvi uma calculadora científica, utilizando HTML,CSS E Java Script.<br>
    <ul>
    <li>Em HTML, utilizei a tag "div" para criar um elemento de contêiner que foi utilizado para agrupar outros elementos HTML juntos.</li>
-   <li>Já em CSS, estilizei o layout da calculadora e dos botões utilizando a propiedade "box-shadow" para adiocionar sombra em torno
-    ao redor dos elementos. Fiz uso também da propriedade "display:flex" para alinhar o posicionamento e a distruição do
-    layout da calculadora.</li>
-    <li>Implementei em JavaScript as funcionalidades da calculadora, utilizando objeto "Math" para que fornece propriedades e métodos 
-    matématicos para cálculos. Inseri também funções, estrutura de decisão (IF) e  estrutura de controle de fluxo (FOR) dentro da 
-    estrutura de dados. </li>
+   <li>á em CSS, estilizei o layout da calculadora e dos botões utilizando a propriedade "box-shadow" para adicionar sombra em torno ao redor dos elementos. Fiz uso também da propriedade "display:flex" para alinhar o posicionamento e a distribuição do layout da calculadora.</li>
+    <li>Implementei em JavaScript as funcionalidades da calculadora, utilizando objeto "Math" para que fornece propriedades e métodos matemáticos para cálculos. Inseri também funções, estrutura de decisão (IF) e estrutura de controle de fluxo (FOR) dentro da estrutura de dados. </li>
     </ul>
    
 </p>
@@ -48,10 +44,10 @@ Link do website: <a href="https://scientific-calculator-gamma.vercel.app/">Scien
 <ul>
 <li> Cálculos de adição, subtração, multiplicação e divisão.</li>
 <li> Operações de raiz quadrada e potência ao quadrado.</li>
-<li> Constante e, PI e numero fatorial. </li>
+<li> Constante e, PI e número fatorial. </li>
 <li> As três principais funções trigonométricas: seno(sin), cosseno(cos) e tangente(tan).</li>
 <li> Logaritmos(log).</li>
-<li> Implentei funções de backspace e "clear entry"(CE).</li>
+<li> Implementei funções de backspace e "clear entry"(CE).</li>
 </ul>
 
 <h4> English: </h4>
