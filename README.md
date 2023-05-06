@@ -49,8 +49,8 @@ Link do website: <a href="https://scientific-calculator-gamma.vercel.app/">Scien
 <li> Operações de raiz quadrada e potência ao quadrado.</li>
 <li> Constante e, PI e numero fatorial. </li>
 <li> As três principais funções trigonométricas: seno(sin), cosseno(cos) e tangente(tan).</li>
-<li> Logaritmos(log)</li>
-<li> Implentei funções de backspace e "clear entry"(CE)</li>
+<li> Logaritmos(log).</li>
+<li> Implentei funções de backspace e "clear entry"(CE).</li>
 </ul>
 
 ## Linguagens, dependências e libs utilizadas | Languages, dependencies and libs used :books:
