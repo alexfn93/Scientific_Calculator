@@ -74,7 +74,10 @@ Link do website: <a href="https://scientific-calculator-gamma.vercel.app/">Scien
 <h2>Professore(s) | Teacher(s):</h2> XXXXXXXXXXXXX; <br>
 
 <p align="justify">
-<h2>Agradecimentos | Ackowledgment:</h2> XXXXXXXXXXXXXXXX </p>
+<h2>Agradecimentos | Ackowledgment:</h2>
+<p> Créditos a Winterfell Coder</p>
+<br>
+ Youtube Channel: <a href="https://www.youtube.com/watch?v=LgryqYxSCNk">WinterfellCoder</a>
 
 ## Licença | License
 
