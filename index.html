@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -9,12 +9,17 @@
     <!-- CSS -->
     <link rel="stylesheet" href="CSS/styles.css" />
 
-    <!-- fffff -->
+    <!-- CDN Bootstrap -->
     <link
+      class="content"
       rel="stylesheet"
       type="text/css"
       href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
     />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/jpg" href="Image/icons8-calculator-48.png"/>
+
   </head>
   <body>
     <div class="container">
@@ -24,12 +29,12 @@
 
       <div class="btns">
         <div class="row">
-          <button id="ce" onclick="backspc()">CE</button>
+          <button id="ce" onclick="backspc()">⌫</button>
           <button onclick="fact()">x!</button>
           <button class="btn">(</button>
           <button class="btn">)</button>
           <button class="btn">%</button>
-          <button id="ac" onclick="screen.value=''">AC</button>
+          <button id="ac" onclick="screen.value=''">CE</button>
         </div>
 
         <div class="row">
@@ -43,7 +48,7 @@
 
         <div class="row">
           <button onclick="cos()">cos</button>
-          <button onclick="log()">log</button>
+          <button onclick="e()">e</button>
           <button class="btn">4</button>
           <button class="btn">5</button>
           <button class="btn">6</button>
@@ -60,10 +65,10 @@
         </div>
 
         <div class="row">
-          <button onclick="e()">e</button>
+          <button onclick="log()">log</button>
           <button onclick="pow()">
-            x<span style="position: relative; bottom: 0.4em; right: 0.1em;"
-              >y</span
+            x<span style="position: relative; bottom: 0.4em; right: 0.1em"
+              >²</span
             >
           </button>
           <button class="btn">0</button>
@@ -75,7 +80,7 @@
     </div>
 
     <h2>
-      Software<span>SCIENTIFIC</span><br />Calculator <br />
+      Software<span>SCIENTIFIC</span><br /><span>Calculator</span> <br />
       <i style="font-size: 100px" class="fa fa-reply"></i>
     </h2>
   </body>

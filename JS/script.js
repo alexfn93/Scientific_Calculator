@@ -45,7 +45,7 @@ function pi() {
 }
 
 function e() {
-  screen.value = 2,718281828459045235360287n;
+  screen.value = 2.718281828459045235360287;
 }
 
 function fact() {

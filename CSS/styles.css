@@ -17,6 +17,7 @@ body {
 }
 
 .content {
+  background: #00ace6;
   width: 100%;
   margin-top: 1.7em;
   display: flex;
@@ -107,8 +108,13 @@ h2 span {
     4px 4px 4px #d1d9e6, 5px 5px 5px #d1d9e6, 6px 6px 6px #d1d9e6;
 }
 
-h2.fa {
+h2 span:nth-child(3) {
+  color: #e60073;
+}
+
+h2 .fa {
   position: absolute;
   top: 1.5em;
   color: #33ccff;
 }
+
