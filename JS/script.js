@@ -1,7 +1,5 @@
 var screen = document.querySelector('#screen');
-var btn = document.querySelector('.btn');
-
-/*-- Para obter o valor de 'bnt', usaremos o loop 'for' --*/
+var btn = document.querySelectorAll('.btn');
 
 for (item of btn) {
   item.addEventListener('click', e => {
@@ -16,6 +14,7 @@ for (item of btn) {
     screen.value += btntext;
   });
 }
+
 
 function sin() {
   screen.value = Math.sin(screen.value);
@@ -42,11 +41,11 @@ function log() {
 }
 
 function pi() {
-  screen.value = Math.PI(screen.value);
+  screen.value = 3.141592653589793;
 }
 
 function e() {
-  screen.value = Math.E(screen.value);
+  screen.value = 2,718281828459045235360287n;
 }
 
 function fact() {
