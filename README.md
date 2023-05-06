@@ -44,6 +44,7 @@ Link do website: <a href="https://scientific-calculator-gamma.vercel.app/">Scien
 </p>
 
 ## Funcionalidades | Functionalities
+<h4> Português: </h4>
 <ul>
 <li> Cálculos de adição, subtração, multiplicação e divisão.</li>
 <li> Operações de raiz quadrada e potência ao quadrado.</li>
@@ -51,6 +52,16 @@ Link do website: <a href="https://scientific-calculator-gamma.vercel.app/">Scien
 <li> As três principais funções trigonométricas: seno(sin), cosseno(cos) e tangente(tan).</li>
 <li> Logaritmos(log).</li>
 <li> Implentei funções de backspace e "clear entry"(CE).</li>
+</ul>
+
+<h4> English: </h4>
+<ul>
+    <li> Addition, subtraction, multiplication and division calculations.</li>
+    <li> Square root and power squared operations.</li>
+    <li> Constant e, PI and factorial number.</li>
+    <li> The three main trigonometric functions: sine(sin), cosine(cos) and tangent(tan).</li>
+    <li> Logarithms(log).</li>
+    <li> Implemented backspace and "clear entry"(CE) functions.</li>
 </ul>
 
 ## Linguagens, dependências e libs utilizadas | Languages, dependencies and libs used :books:
