@@ -12,7 +12,7 @@
 Link do website: <a href="https://scientific-calculator-gamma.vercel.app/">Scientific Calculator</a>
 
 </div>
-> Status do Projeto | Project Status: :heavy_check_mark: :warning: Concluído | Concluded
+ Status do Projeto | Project Status: :heavy_check_mark: :warning: Concluído | Concluded
 
 ### Tópicos | Topics
 
